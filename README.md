@@ -1,5 +1,3 @@
-# kurosec-lab
-
 # KuroSec Lab
 
 > Security Operations × AI × Automation
